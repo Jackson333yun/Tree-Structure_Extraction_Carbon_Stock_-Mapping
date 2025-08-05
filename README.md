@@ -8,4 +8,5 @@
 
 ## Trained weights
 
-We provide the trained model available for download in the [Google Drive](/https://drive.google.com/file/d/1O6ElCxUscEp0Y1sUNAhiDvpkuA1LmT5u/view?usp=drive_link)
+We provide the trained model available for download in the [Google Drive](https://drive.google.com/file/d/1O6ElCxUscEp0Y1sUNAhiDvpkuA1LmT5u/view?usp=drive_link)
+
